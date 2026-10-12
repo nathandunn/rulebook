@@ -1,0 +1,7 @@
+; Only here so the tests can run headless: godot --headless --path . -s tests/run_tests.gd
+config_version=5
+
+[application]
+
+config/name="Rulebook"
+config/features=PackedStringArray("4.4")
